@@ -3,7 +3,7 @@
 A clean and modern personal portfolio website built to showcase projects, skills, and personal information in a simple and elegant way.
 
 ## 🌐 Live Demo
-👉 https://sugetoyon.github.io/portfolio/1.html
+👉 https://sugetoyon.github.io/basic-portfolio
 
 ## ✨ Features
 - Minimal and modern design
